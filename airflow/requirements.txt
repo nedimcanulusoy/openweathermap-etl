@@ -1,0 +1,9 @@
+requests
+pandas
+PyYAML
+requests
+pymongo
+pendulum
+sqlalchemy
+apache-airflow
+numpy
